@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SKillz813
-- 👀 I’m interested in Web Development and Discord Development 
-- 🌱 I’m currently learning Android App Development 
-- 💞️ I’m looking to collaborate on nothing yet :)
+- 👀 I’m interested in Web Development and Discord Development
+- 🌱 I’m currently learning Android App Development, and Object-Oriented Programming 
 - 📫 How to reach me: 
   Discord: SKillz#0356
   Email: psyrakiss@gmail.com
