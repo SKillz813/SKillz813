@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I'm Angelos, a confused student based in Greece.
 
 I started my journey as a Frontend Engineer, moved into UI/UX Design and now transitioning into AI/ML with strong interest in fintech and startups. 
